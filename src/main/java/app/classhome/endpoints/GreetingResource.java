@@ -1,4 +1,4 @@
-package app.classhome;
+package app.classhome.endpoints;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
